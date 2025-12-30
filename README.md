@@ -6,9 +6,6 @@
 [![Portifolio](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.fortunatodev.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eudevxoh)
 
-
-![Fortunato's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortunatoDeveloper&show_icons=true&theme=radical)
-
 </br>
 
 ## Tecnologias do meu dia a dia
